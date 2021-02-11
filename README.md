@@ -17,3 +17,5 @@ A classic CLI snake game implemented in C++ using windows.h library and designed
 
 ### Game Play
 ![Game Play](https://github.com/Sanchit-sk/Snake-cpp/blob/main/snake_demo.gif)
+
+Currently working on to optimize the code!
